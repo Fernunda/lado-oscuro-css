@@ -5,6 +5,7 @@ PARTICIPANTES:
 
 Bootstrap vs Materialize 
 1-Estilo visual: Bootstrap se ve más cuadrado y clásico. Materialize se ve más moderno, tipo apps de Google (Material Design).
+
 2-Los inputs: Bootstrap usa cajas con borde completo. Materialize usa solo una línea abajo, y el label "flota" arriba cuando escribes.
 3-El menú: Bootstrap usa un solo bloque de código para el menú (celular y escritorio). Materialize necesita dos bloques separados, uno para cada caso.
 4-JavaScript: Bootstrap funciona solo con atributos en el HTML, sin escribir JS. Materialize necesita un poco de JavaScript para activar el menú lateral.
